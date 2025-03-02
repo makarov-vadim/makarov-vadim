@@ -15,7 +15,7 @@
 <div>
   <img src="https://github.com/makarov-vadim/makarov-vadim/blob/main/assets/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/makarov-vadim/makarov-vadim/blob/main/assets/kivy.svg" title="kivy" alt="kivy" width="40" height="40"/>&nbsp
-  <img src="http://github.com/makarov-vadim/makarov-vadim/blob/main/assets/sql.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
+  <img src="https://github.com/makarov-vadim/makarov-vadim/blob/main/assets/sql.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
   <img src="https://github.com/makarov-vadim/makarov-vadim/blob/main/assets/vba.svg" title="vba" alt="vba" width="40" height="40"/>&nbsp
     <img src="https://github.com/makarov-vadim/makarov-vadim/blob/main/assets/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/makarov-vadim/makarov-vadim/blob/main/assets/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
