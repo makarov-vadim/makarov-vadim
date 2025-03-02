@@ -12,6 +12,17 @@
 ## Мои проекты
 -->
 ## Языки и инструменты
+<!--
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+-->
+
+
+
+
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![Kivy](https://img.shields.io/badge/-Kivy-black?style=for-the-badge&logo=kivy)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=sql)
