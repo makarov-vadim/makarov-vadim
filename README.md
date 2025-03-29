@@ -16,7 +16,7 @@
 ## Мои проекты и интересные задачки
 ### 1. Проекты на Python 
 [1.1 Vk чат-бот, реагирующий на сообщения](https://github.com/makarov-vadim/vk_bot_1)  
-1.2 Решение задачи о восьми ферзях (в скором времени выложу)  
+[1.2 Решение задачи о восьми ферзях](https://github.com/makarov-vadim/eight_queens_puzzle)  
 1.3 Приложение на Android "Relaxing Triangle" (залипалка) (в скором времени выложу)  
 1.4 Приложение на Android "Shopping and Desires" (список покупок) (в работе)
 
